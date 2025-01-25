@@ -61,5 +61,5 @@ def main():
         save_usernames_to_file(usernames)
 
 # Run the program
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
